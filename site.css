@@ -11,3 +11,12 @@ li {
 .fa {
 	color: white;
 }
+
+.project {
+	background-color: #212529;
+}
+
+.project-link, .project-link:hover {
+	color: white;
+	text-decoration: none;
+}
